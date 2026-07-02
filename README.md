@@ -26,8 +26,8 @@
 
 | Project | Stack | Status |
 |---------|-------|--------|
-| [End-to-End ELT Pipeline](https://github.com/srthakre3) | Python · dbt · Airflow · PostgreSQL · GitHub Actions | 🚧 In Progress |
-| [Data Quality & Monitoring Framework](https://github.com/srthakre3) | Python · Great Expectations · Pandas · SQL | 🚧 In Progress |
+| [End-to-End ELT Pipeline](https://github.com/srthakre3/nyc-taxi-elt-pipeline) | Python · dbt · Airflow · PostgreSQL · GitHub Actions | 🚧 In Progress |
+| [Data Quality & Monitoring Framework](https://github.com/srthakre3/data-quality-framework) | Python · Pandas · SQLAlchemy · SQL | ✅ Complete |
 | [Self-Serve Analytics Platform](https://github.com/srthakre3) | SQL · dbt · Redshift · QuickSight | 📋 Planned |
 
 ---
